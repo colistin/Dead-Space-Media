@@ -10,6 +10,7 @@ Links:
 
 3.https://www.mediafire.com/file/7ye62z4plw2mjub/Dead_Space_Media.7z.003/file
 
+4.https://www.mediafire.com/file/i2epyz5dacqeuun/Dead_Space_Media.7z.004/file
 
 Localization: English
 Information: Follow "How to run" of each media if it has it. Read "Information" for DS: 2, DS: Extraction and DS Mobile.
