@@ -13,12 +13,14 @@ Links:
 4.https://www.mediafire.com/file/i2epyz5dacqeuun/Dead_Space_Media.7z.004/file
 
 Localization: English
+
 Information: Follow "How to run" of each media if it has it. Read "Information" for DS: 2, DS: Extraction and DS Mobile.
 To play DS PS3 games, read "How to run" of RPCS3. "Dead Space Timeline.jpg" provides chronological order of DS media.
 
 --------------------------------------------------------------------------------------------------
 	RPCS3 0.0.27
 Format: Executable (.exe)
+
 Location: \RPCS3\rpcs3.exe
 
 Information: RPCS3 PlayStation 3 Emulator is required to run PS3 games (DS: Extraction; DS: Ignition; DS2: Severed).
